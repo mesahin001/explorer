@@ -19,7 +19,7 @@ Ping Explorer is a light explorer for Cosmos-based Blockchains.  https://ping.pu
 
 ## How should I use this at Stride?
 
-Please pull this repo and run `yarn && yarn serve` then go to `http://localhost:8080/stride`
+Please pull this repo and run `yarn && yarn serve` then go to `http://localhost:8080/stride` 
 
 ## What is the difference between Ping explorer and other explorers? 
 
