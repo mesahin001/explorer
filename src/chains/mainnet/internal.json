@@ -1,0 +1,22 @@
+{
+    "chain_name": "internal",
+    "api": ["http://stride_1.internal.stridelabs.co:1317/", 
+            "http://stride_2.internal.stridelabs.co:1317/", 
+            "http://stride_3.internal.stridelabs.co:1317/"],
+    "rpc": ["http://stride_1.internal.stridelabs.co:26657/", 
+        "http://stride_2.internal.stridelabs.co:26657/", 
+        "http://stride_3.internal.stridelabs.co:26657/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.4",
+    "coin_type": "118",
+    "min_tx_fee": "0",
+    "assets": [{
+        "base": "ustrd",
+        "symbol": "STRD",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": ""
+    }],
+    "addr_prefix": "stride",
+    "logo": "/logos/stride.png"
+}	
