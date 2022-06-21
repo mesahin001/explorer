@@ -1,8 +1,8 @@
 {
     "chain_name": "internal",
-    "api": ["http://stride_1.internal.stridelabs.co:1317/", 
-            "http://stride_2.internal.stridelabs.co:1317/", 
-            "http://stride_3.internal.stridelabs.co:1317/"],
+    "api": ["http://stride_1.internal.stridelabs.co:1317", 
+            "http://stride_2.internal.stridelabs.co:1317", 
+            "http://stride_3.internal.stridelabs.co:1317"],
     "rpc": ["http://stride_1.internal.stridelabs.co:26657/", 
         "http://stride_2.internal.stridelabs.co:26657/", 
         "http://stride_3.internal.stridelabs.co:26657/"],
