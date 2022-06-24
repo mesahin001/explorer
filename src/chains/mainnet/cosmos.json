@@ -1,8 +1,8 @@
 {
     "chain_name": "cosmos",
     "coingecko": "cosmos",
-    "api": ["http://localhost:26661/"],
-    "rpc": ["http://localhost:26662/"],
+    "api": ["http://localhost:1307/"],
+    "rpc": ["http://localhost:26557/"],
     "snapshot_provider": "",
     "sdk_version": "0.44.3",
     "coin_type": "118",
