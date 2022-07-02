@@ -8,10 +8,10 @@
           class="nav-link"
           @click="toggleVerticalMenuActive"
         >
-          <feather-icon
+          <!-- <feather-icon
             icon="MenuIcon"
             size="21"
-          />
+          /> -->
         </b-link>
       </li>
     </ul>

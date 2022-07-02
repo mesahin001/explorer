@@ -17,7 +17,6 @@
         :collapse-toggler-icon="collapseTogglerIcon"
       >
         <ul class="nav navbar-nav flex-row">
-
           <!-- Logo & Text -->
           <li class="nav-item mr-auto">
             <b-link

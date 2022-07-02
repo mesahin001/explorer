@@ -5,6 +5,11 @@
   >
     <div class="content-overlay" />
     <div class="header-navbar-shadow" />
+    <div style="display:flex;align-items:center;width:100vw;background-color:#FA5252;color:black;font-weight:bold;">
+      <div style="display:flex;align-items:center;justify-content:center;width:100%;">
+        TESTNET
+      </div>
+    </div>
     <transition
       :name="routerTransition"
       mode="out-in"
