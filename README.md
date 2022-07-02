@@ -69,7 +69,7 @@ address = "tcp://0.0.0.0:1317"
 max-open-connections = 1000
 ```
 
-2. add proxy server and enable CORS. NOTE: You must enable https as well.
+2. add proxy server and enable }. NOTE: You must enable https as well.
 
 ```
 server {
