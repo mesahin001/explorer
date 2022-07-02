@@ -31,11 +31,11 @@
         <summary-assets-component />
       </b-col>
     </b-row>
-    <b-row>
+ <!-- <b-row>
       <b-col>
         <summary-parmeters-component :data="mint" />
       </b-col>
-    </b-row>
+    </b-row> -->
     <b-row>
       <b-col>
         <summary-parmeters-component :data="staking" />
