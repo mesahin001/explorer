@@ -1,11 +1,11 @@
 <template>
   <b-nav
-    align="right"
+    align="center"
     style="width:100%"
     class="nav text-right text-nowrap ml-auto"
   >
-    <b-nav-item><dark-toggler /></b-nav-item>
-    <b-nav-item><locale /></b-nav-item>
+    <!-- <b-nav-item><dark-toggler /></b-nav-item> -->
+    <!-- <b-nav-item><locale /></b-nav-item>
     <b-button
       v-ripple.400="'rgba(255, 255, 255, 0.15)'"
       variant="primary"
@@ -14,7 +14,10 @@
     >
       <feather-icon icon="KeyIcon" />
       <span class="align-middle ml-25">Wallet</span>
-    </b-button>
+    </b-button> -->
+    <!-- <div style="background-color:red;color:white;padding:20px;">
+      TESTNET
+    </div> -->
   </b-nav>
 </template>
 
