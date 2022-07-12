@@ -1,8 +1,8 @@
 {
     "chain_name": "GAIA",
     "coingecko": "cosmos",
-    "api": ["https://gaia.aidan.stridenet.co:443"],
-    "rpc": ["https://gaia.aidan.stridenet.co:445/"],
+    "api": ["http://localhost:1307"],
+    "rpc": ["http://localhost:26557"],
     "snapshot_provider": "",
     "sdk_version": "0.44.3",
     "coin_type": "118",
