@@ -1,8 +1,8 @@
 {
     "chain_name": "GAIA",
     "coingecko": "cosmos",
-    "api": ["https://gaia-fleet.poolparty.stridenet.co/api"],
-    "rpc": ["https://gaia-fleet.poolparty.stridenet.co/"],
+    "api": ["https://gaia.poolparty.stridenet.co/"],
+    "rpc": ["https://gaia.poolparty.stridenet.co:445"],
     "snapshot_provider": "",
     "sdk_version": "0.44.3",
     "coin_type": "118",
