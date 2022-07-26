@@ -1,0 +1,19 @@
+{
+    "chain_name": "sei",
+    "coingecko": "",
+    "api": ["https://sei-api.theamsolutions.info/"], 
+    "rpc": ["http://161.97.82.203:26457/", "https://sei-testnet.nodejumper.io/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.4",
+    "coin_type": "505",
+    "min_tx_fee": "800",
+    "addr_prefix": "sei",
+    "logo": "sei.png",
+    "assets": [{
+        "base": "usei",
+        "symbol": "SEI",
+        "exponent": "6", 
+        "coingecko_id": "",
+        "logo": "sei.png"
+    }]
+}
